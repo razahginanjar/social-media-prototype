@@ -82,7 +82,7 @@ more detail feature in API can check in docs folder
 ##  Installation
 
 ```bash
-    git clone https://git.enigmacamp.com/enigma-camp/enigmacamp-2.0/batch-31-java/razah-deden-ginanjar/challenge/ch_sb_1_social_media_protoype.git
+    git clone https://github.com/razahginanjar/social-media-prototype.git
 ```
 
 ##  Running Program
